@@ -7,8 +7,5 @@ Debug
 aaaa
 git
 四川
-<<<<<<< Updated upstream
 一周
-=======
-眉山
->>>>>>> Stashed changes
+
